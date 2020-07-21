@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593883729 source:a:\dave\quick access\documents\mega\programming\second year\c++\lab problems\lab1\array-manipulation\codeblocks\array-manipulation\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<ProcessEnv.h >
+	<Windows.h>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<vector>
+
